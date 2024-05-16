@@ -1,7 +1,7 @@
 {
     "read": {
         "Identity": {
-            "Page Number": 1,
+            "PageNumber": 1,
             "AccountNumber": "5101183737505",
             "AccountNumberConfidence": 0,
             "AccountNumberCoordinates": {
@@ -90,7 +90,7 @@
         },
         "TransactionHistory": [
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 150000.0,
                 "AmountConfidence": 0.9914103259999999,
                 "AmountCoordinate": {
@@ -142,7 +142,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 1000.0,
                 "AmountConfidence": 0.9898776983333334,
                 "AmountCoordinate": {
@@ -194,7 +194,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 100000.0,
                 "AmountConfidence": 0.9893415266666667,
                 "AmountCoordinate": {
@@ -246,7 +246,7 @@
                 "Type": "CREDIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 200000.0,
                 "AmountConfidence": 0.9898755807142857,
                 "AmountCoordinate": {
@@ -298,7 +298,7 @@
                 "Type": "CREDIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 6500.0,
                 "AmountConfidence": 0.9897698144117646,
                 "AmountCoordinate": {
@@ -350,7 +350,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 290000.0,
                 "AmountConfidence": 0.9900660504545455,
                 "AmountCoordinate": {
@@ -402,7 +402,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 300000.0,
                 "AmountConfidence": 0.9901438580434783,
                 "AmountCoordinate": {
@@ -454,7 +454,7 @@
                 "Type": "CREDIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 300000.0,
                 "AmountConfidence": 0.9900918393103448,
                 "AmountCoordinate": {
@@ -506,7 +506,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 1000.0,
                 "AmountConfidence": 0.9899765071212121,
                 "AmountCoordinate": {
@@ -558,7 +558,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 4000.0,
                 "AmountConfidence": 0.9900774978378379,
                 "AmountCoordinate": {
@@ -610,7 +610,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 1800000.0,
                 "AmountConfidence": 0.9895610197826087,
                 "AmountCoordinate": {
@@ -662,7 +662,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 250.0,
                 "AmountConfidence": 0.9901553106249998,
                 "AmountCoordinate": {
@@ -714,7 +714,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 900000.0,
                 "AmountConfidence": 0.990062190263158,
                 "AmountCoordinate": {
@@ -766,7 +766,7 @@
                 "Type": "CREDIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 1000000.0,
                 "AmountConfidence": 0.9893836453703704,
                 "AmountCoordinate": {
@@ -818,7 +818,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 6500.0,
                 "AmountConfidence": 0.9894227462068964,
                 "AmountCoordinate": {
@@ -870,7 +870,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 1.0,
+                "PageNumber": 1.0,
                 "Amount": 360000.0,
                 "AmountConfidence": 0.9894977542857143,
                 "AmountCoordinate": {
@@ -922,7 +922,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 2.0,
+                "PageNumber": 2.0,
                 "Amount": 2524807.0,
                 "AmountConfidence": 0.9886596841666665,
                 "AmountCoordinate": {
@@ -974,7 +974,7 @@
                 "Type": "CREDIT"
             },
             {
-                "Page Number": 2.0,
+                "PageNumber": 2.0,
                 "Amount": 250000.0,
                 "AmountConfidence": 0.9910032578571429,
                 "AmountCoordinate": {
@@ -1026,7 +1026,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 2.0,
+                "PageNumber": 2.0,
                 "Amount": 400000.0,
                 "AmountConfidence": 0.9900856311538462,
                 "AmountCoordinate": {
@@ -1078,7 +1078,7 @@
                 "Type": "CREDIT"
             },
             {
-                "Page Number": 2.0,
+                "PageNumber": 2.0,
                 "Amount": 300000.0,
                 "AmountConfidence": 0.9338101357407409,
                 "AmountCoordinate": {
@@ -1130,7 +1130,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 2.0,
+                "PageNumber": 2.0,
                 "Amount": 1500.0,
                 "AmountConfidence": 0.933919808,
                 "AmountCoordinate": {
@@ -1182,7 +1182,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 2.0,
+                "PageNumber": 2.0,
                 "Amount": 100000.0,
                 "AmountConfidence": 0.9340552241111111,
                 "AmountCoordinate": {
@@ -1234,7 +1234,7 @@
                 "Type": "DEBIT"
             },
             {
-                "Page Number": 2.0,
+                "PageNumber": 2.0,
                 "Amount": 150000.0,
                 "AmountConfidence": 0.9900520039583333,
                 "AmountCoordinate": {
@@ -1286,7 +1286,7 @@
                 "Type": "CREDIT"
             },
             {
-                "Page Number": 2.0,
+                "PageNumber": 2.0,
                 "Amount": 150000.0,
                 "AmountConfidence": 0.934288990338983,
                 "AmountCoordinate": {
